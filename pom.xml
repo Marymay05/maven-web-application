@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.215.157.23:4000/repository/fintech-prod-snapshort/</url>
+	      <url>http://34.228.167.151:4000/repository/fintech-snapshort/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
